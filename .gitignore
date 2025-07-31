@@ -11,3 +11,6 @@ wheels/
 
 # VS Code / Cursor settings
 .vscode/
+
+# environemnt variables
+.env
