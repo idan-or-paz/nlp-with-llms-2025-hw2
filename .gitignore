@@ -11,3 +11,4 @@ wheels/
 
 # VS Code / Cursor settings
 .vscode/
+grok_key.ini
