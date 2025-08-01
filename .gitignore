@@ -11,4 +11,7 @@ wheels/
 
 # VS Code / Cursor settings
 .vscode/
+
+# environemnt variables
+.env
 grok_key.ini
